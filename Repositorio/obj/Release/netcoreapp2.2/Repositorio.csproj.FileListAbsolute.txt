@@ -1,0 +1,14 @@
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Repositorio.deps.json
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Repositorio.dll
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Repositorio.pdb
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Entidades.dll
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Interactors.dll
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Interactors.pdb
+C:\Users\Ignacio\source\repos\Repositorio\bin\Release\netcoreapp2.2\Entidades.pdb
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.csprojAssemblyReference.cache
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.AssemblyInfoInputs.cache
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.AssemblyInfo.cs
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.csproj.CopyComplete
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.dll
+C:\Users\Ignacio\source\repos\Repositorio\obj\Release\netcoreapp2.2\Repositorio.pdb

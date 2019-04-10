@@ -1,0 +1,9 @@
+C:\Users\Ignacio\source\repos\Entidades\bin\Release\netcoreapp2.2\Entidades.deps.json
+C:\Users\Ignacio\source\repos\Entidades\bin\Release\netcoreapp2.2\Entidades.dll
+C:\Users\Ignacio\source\repos\Entidades\bin\Release\netcoreapp2.2\Entidades.pdb
+C:\Users\Ignacio\source\repos\Entidades\obj\Release\netcoreapp2.2\Entidades.csprojAssemblyReference.cache
+C:\Users\Ignacio\source\repos\Entidades\obj\Release\netcoreapp2.2\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\Entidades\obj\Release\netcoreapp2.2\Entidades.AssemblyInfoInputs.cache
+C:\Users\Ignacio\source\repos\Entidades\obj\Release\netcoreapp2.2\Entidades.AssemblyInfo.cs
+C:\Users\Ignacio\source\repos\Entidades\obj\Release\netcoreapp2.2\Entidades.dll
+C:\Users\Ignacio\source\repos\Entidades\obj\Release\netcoreapp2.2\Entidades.pdb
